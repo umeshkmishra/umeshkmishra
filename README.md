@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umeshkmishra
 - 👀 I’m interested in learning latest technology
 - 🌱 I’m currently learning AI, ML, Blockchain, Crypto
-- 💞️ I’m looking to collaborate on Crypt
+- 💞️ I’m looking to collaborate on Crypto learning
 - 📫 How to reach me ...
 
 <!---
